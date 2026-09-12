@@ -1,193 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:111827,100:F59E0B&height=220&section=header&text=ADITYA%20AGRAWAL&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI-POWERED%20ANALYTICS&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B10,45:101722,100:F59E0B&height=230&section=header&text=ADITYA%20AGRAWAL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20AI%20ANALYTICS&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/beaaditya">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&pause=1300&color=F59E0B&center=true&vCenter=true&width=760&lines=I+turn+raw+data+into+business+decisions;SQL+%7C+Python+%7C+PostgreSQL+%7C+Power+BI;Building+end-to-end+analytics+and+decision+systems;Data+%2B+Business+%2B+AI" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=850&lines=Turning+raw+data+into+business+decisions;SQL+%7C+Python+%7C+PostgreSQL+%7C+Power+BI;Building+analytics+systems%2C+not+just+dashboards;DATA+%E2%86%92+INSIGHTS+%E2%86%92+DECISIONS" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/beaaditya">
-<img src="https://img.shields.io/badge/GitHub-beaaditya-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-BEAADITYA-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/aditya-agrawal-analytics">
-<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-ADITYA%20AGRAWAL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:adityaagrawal.0101@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-F59E0B?style=for-the-badge&logo=gmail&logoColor=111827" />
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-F59E0B?style=for-the-badge&logo=gmail&logoColor=111827"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=beaaditya&label=PROFILE%20VIEWS&color=F59E0B&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=beaaditya&label=PROFILE%20VIEWS&color=F59E0B&style=for-the-badge"/>
 
 </div>
 
 ---
-
-## ⚡ PROFILE
-
-> **B.Tech Information Technology student (Class of 2027)** focused on **Data Analytics, Business Intelligence and AI-assisted decision systems**.
->
-> I build projects that move beyond charts:
-> **data ingestion → cleaning & validation → SQL analytics → APIs → dashboards → decision support**.
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 WHAT I BUILD
-
-- 📊 Business intelligence dashboards
-- 🧩 End-to-end analytics pipelines
-- 🗄️ PostgreSQL data models & analytical views
-- 🐍 Python-based ETL and data processing
-- 🤖 AI-assisted analytical workflows
-- 💡 Business recommendations backed by data
-
-</td>
-
-<td width="50%">
-
-### 🔎 CURRENT FOCUS
-
-- Advanced SQL & analytical querying
-- Power BI + DAX
-- Python, Pandas & NumPy
-- Data cleaning, EDA & validation
-- Product / e-commerce analytics
-- Building portfolio-grade analytics systems
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 CORE STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode,html,css,js" height="48"/>
+## ⚡ DATA → INSIGHTS → DECISIONS
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/SQL-Advanced-F59E0B?style=for-the-badge&logo=postgresql&logoColor=111827" />
-<img src="https://img.shields.io/badge/Power%20BI-Analytics-F59E0B?style=for-the-badge&logo=powerbi&logoColor=111827" />
-<img src="https://img.shields.io/badge/Excel-Advanced-16A34A?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-EDA-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-Analytics-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-Data%20Warehouse-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/DAX-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" />
+### 🗄️
+### DATA
+
+SQL  
+PostgreSQL  
+ETL  
+Validation
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+### ANALYTICS
+
+EDA  
+KPIs  
+Segmentation  
+Business Logic
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+### VISUALIZE
+
+Power BI  
+DAX  
+Excel  
+Dashboards
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎯
+### DECIDE
+
+Insights  
+Recommendations  
+AI  
+Action
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+# 👋 ABOUT ME
 
-<table>
-<tr>
+> **B.Tech Information Technology student | Class of 2027**
 
-<td width="50%" valign="top">
+I build **end-to-end analytics and decision-intelligence systems** that transform raw data into business-ready insights.
 
-### 🛒 AI-Powered E-Commerce Analytics & Decision System
+My work sits at the intersection of:
 
-**Enterprise-style analytics + AI decision support** built on the Dunnhumby retail dataset.
+**Data Analytics + Business Intelligence + Python + SQL + AI**
 
-**What it demonstrates:**
-- PostgreSQL analytics warehouse
-- Automated cleaning & validation
-- FastAPI backend
-- Executive BI dashboard
-- Natural-language analytical agent
-- AI-generated business insights
-- Read-only SQL guardrails
-
-<a href="https://github.com/beaaditya/ai-powered-ecommerce-analytics-decision">
-View repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎓 Student Learning Analytics & Decision Intelligence Platform
-
-A full-stack analytics product turning student, school, assessment and engagement data into **decision intelligence**.
-
-**What it demonstrates:**
-- ETL + data-quality workflow
-- PostgreSQL analytics layer
-- Executive & school intelligence
-- Student 360° analytics
-- Risk & intervention signals
-- AI Student Analyst
-- Proactive AI Insights
-
-<a href="https://github.com/beaaditya/Indian-student-learning-analytics-deicison-platfrom">
-View repository →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 📈 E-Commerce Business Intelligence Dashboard
-
-End-to-end Olist marketplace analysis using **PostgreSQL + SQL + Power BI + DAX**.
-
-**Highlights:**
-- 99K+ orders analysed
-- Revenue & order KPIs
-- Customer retention analysis
-- Category & seller analysis
-- Delivery performance
-- Geographic insights
-- Drill-through dashboard
-
-<a href="https://github.com/beaaditya/E-Commerce-Business-Intelligence-Dashboard">
-View repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔧 Analytics Engineering Mindset
-
-Across my projects, I focus on building the complete chain:
-
-**Raw Data → ETL → Validation → PostgreSQL → Analytics Views → APIs / BI → Insights → Decisions**
-
-That is the kind of workflow I want to bring into a real analytics team.
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🏗️ HOW I APPROACH ANALYTICS
+Instead of stopping at:
 
 ```text
-RAW DATA
-   ↓
-DATA CLEANING + VALIDATION
-   ↓
-POSTGRESQL / SQL DATA MODEL
-   ↓
-ANALYTICAL VIEWS + KPI LOGIC
-   ↓
-PYTHON / FASTAPI / POWER BI
-   ↓
-BUSINESS INSIGHTS
-   ↓
-DECISION SUPPORT
+RAW DATA → DASHBOARD
