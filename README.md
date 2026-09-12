@@ -20,6 +20,17 @@
 <img src="https://img.shields.io/badge/LINKEDIN-ADITYA%20AGRAWAL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<div align="center">
+
+If you're interested in Data Analytics, Business Intelligence, E-commerce Analytics, AI-powered analytics or data-driven products, feel free to connect.
+
+<br> <a href="https://github.com/beaaditya"> <img src="https://img.shields.io/badge/GitHub-beaaditya-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/aditya-agrawal-analytics"> <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Agrawal-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
+
+<br><br>
+
+⭐ If you find something useful here, explore the repositories.
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:161b22,100:0d1117&height=130&section=footer"/> </div> <!-- ========================================================= --> <!-- END OF PROFILE README --> <!-- ========================================================= -->
+
 <a href="mailto:adityaagrawal.0101@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-F59E0B?style=for-the-badge&logo=gmail&logoColor=111827"/>
 </a>
